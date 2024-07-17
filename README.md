@@ -13,7 +13,6 @@ This project is a Service Booking System built using Angular, Spring Boot, MySQL
 - **Approve Or Reject Booking:** Functionality to approve or reject booking requests.
 -  ![Tableau de bord de l'entreprise](screenshots/company_dashboard.PNG)
 
-
 ### Client Features:
 - **Create Account:** Clients can create their accounts to access the system.
 - **Login:** Secure login functionality for registered clients.
