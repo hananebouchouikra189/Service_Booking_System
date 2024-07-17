@@ -11,8 +11,6 @@ Ce projet est un système de réservation de services construit avec Angular, Sp
 - **Mettre à Jour & Supprimer des Annonces :** Possibilité de mettre à jour ou de supprimer des annonces publiées.
 - **Voir les Réservations :** Les entreprises peuvent voir les réservations effectuées par les clients.
 - **Approuver ou Rejeter une Réservation :** Fonctionnalité pour approuver ou rejeter les demandes de réservation.
-  
-![Tableau de bord de l'entreprise](screenshots/company_dashboard.PNG "Tableau de bord de l'entreprise")
 
 ### Fonctionnalités pour les Clients :
 - **Créer un Compte :** Les clients peuvent créer leur compte pour accéder au système.
@@ -22,18 +20,32 @@ Ce projet est un système de réservation de services construit avec Angular, Sp
 - **Réserver des Services :** Les clients peuvent réserver les services proposés par les entreprises.
 - **Voir les Réservations :** Les clients peuvent consulter leur historique de réservations.
 - **Évaluer les Services :** Les clients peuvent fournir des avis et des notes pour les services utilisés.
-  
-![Page de connexion pour les clients](screenshots/client-sign.PNG "Page de connexion pour les clients")
+
+
+-Page d'accueil
 ![Page d'accueil](screenshots/home.PNG "Page d'accueil")
+-Page d'inscription
 ![Page d'inscription](screenshots/register.PNG "Page d'inscription")
-![Liste des annonces pour les entreprises](screenshots/ads-list-company.PNG "Liste des annonces pour les entreprises")
-![Réservations des clients](screenshots/bookings-client.PNG "Réservations des clients")
-![Création d'une annonce pour les entreprises](screenshots/create-ad-company.PNG "Création d'une annonce pour les entreprises")
-![Tableau de bord pour les clients](screenshots/dash-client.PNG "Tableau de bord pour les clients")
+-page de connexion pour l'entreprise Page d'inscription
+![Page de connexion pour les entreprises](screenshots/company-sign.PNG "Page de connexion pour les entreprises")
+-Tableau de bord pour les entreprises
 ![Tableau de bord pour les entreprises](screenshots/dash-company.PNG "Tableau de bord pour les entreprises")
-![Avis des clients](screenshots/review-client.PNG "Avis des clients")
+-Création d'une annonce pour les entreprises
+![Création d'une annonce pour les entreprises](screenshots/create-ad-company.PNG "Création d'une annonce pour les entreprises")
+-Mise à jour d'une annonce pour les entreprises
 ![Mise à jour d'une annonce pour les entreprises](screenshots/update-ad-company.PNG "Mise à jour d'une annonce pour les entreprises")
+-Liste des annonces pour les entreprises
+![Liste des annonces pour les entreprises](screenshots/ads-list-company.PNG "Liste des annonces pour les entreprises")
+-Page de connexion pour les clients
+![Page de connexion pour les clients](screenshots/client-sign.PNG "Page de connexion pour les clients")
+-Réservations des clients
+![Réservations des clients](screenshots/bookings-client.PNG "Réservations des clients")
+-Tableau de bord pour les clients
+![Tableau de bord pour les clients](screenshots/dash-client.PNG "Tableau de bord pour les clients")
+-Réservations des clients
 ![Réservations des clients](screenshots/view-bookings-client.PNG "Réservations des clients")
+-Avis des clients
+![Avis des clients](screenshots/review-client.PNG "Avis des clients")
 
 ## Technologies Utilisées
 
