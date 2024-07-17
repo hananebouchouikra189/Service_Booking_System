@@ -53,7 +53,7 @@ Ce projet est un système de réservation de services construit avec Angular, Sp
 ### Tableau de Bord pour les Clients
 ![Tableau de bord pour les clients](screenshots/dash-client.PNG "Tableau de bord pour les clients")
 
-### Réservations des Clients
+### Visualisation des réservations des Clients
 ![Réservations des clients](screenshots/view-bookings-client.PNG "Réservations des clients")
 
 ### Avis des Clients
