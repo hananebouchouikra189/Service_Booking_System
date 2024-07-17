@@ -5,19 +5,28 @@ This project is a Service Booking System built using Angular, Spring Boot, and M
 ## Features
 
 - **Company Features:**
-  - Create, manage, and approve bookings.
-  - Post and manage ads.
+  -Create Account
+  -Login
+  -Post Ads
+  -Update & Delete Ads
+  -View Bookings
+  -Approve Or Reject Booking
   
 - **Client Features:**
-  - Search for services.
-  - Book services.
-  - Review services.
+  -Create Account
+  -Login
+  -Search Services
+  -View Ad Details and Reviews
+  -Book Services
+  -View Bookings
+  -Review Services
 
 ## Technologies Used
 
 - **Frontend:** Angular
 - **Backend:** Spring Boot
 - **Database:** MySQL
+- **Style:** Ng Zorro UI
 
 ## Setup Instructions
 
@@ -25,5 +34,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hananebouchouikra189/Service_Booking_System.git
    cd ServiceBookingSystem
