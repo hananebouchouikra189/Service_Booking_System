@@ -21,30 +21,42 @@ Ce projet est un système de réservation de services construit avec Angular, Sp
 - **Voir les Réservations :** Les clients peuvent consulter leur historique de réservations.
 - **Évaluer les Services :** Les clients peuvent fournir des avis et des notes pour les services utilisés.
 
+## Captures d'écran
 
--Page d'accueil
+### Page d'Accueil
 ![Page d'accueil](screenshots/home.PNG "Page d'accueil")
--Page d'inscription
+
+### Page d'Inscription
 ![Page d'inscription](screenshots/register.PNG "Page d'inscription")
--page de connexion pour l'entreprise Page d'inscription
+
+### Page de Connexion pour les Entreprises
 ![Page de connexion pour les entreprises](screenshots/company-sign.PNG "Page de connexion pour les entreprises")
--Tableau de bord pour les entreprises
+
+### Tableau de Bord pour les Entreprises
 ![Tableau de bord pour les entreprises](screenshots/dash-company.PNG "Tableau de bord pour les entreprises")
--Création d'une annonce pour les entreprises
+
+### Création d'une Annonce pour les Entreprises
 ![Création d'une annonce pour les entreprises](screenshots/create-ad-company.PNG "Création d'une annonce pour les entreprises")
--Mise à jour d'une annonce pour les entreprises
+
+### Mise à Jour d'une Annonce pour les Entreprises
 ![Mise à jour d'une annonce pour les entreprises](screenshots/update-ad-company.PNG "Mise à jour d'une annonce pour les entreprises")
--Liste des annonces pour les entreprises
+
+### Liste des Annonces pour les Entreprises
 ![Liste des annonces pour les entreprises](screenshots/ads-list-company.PNG "Liste des annonces pour les entreprises")
--Page de connexion pour les clients
+
+### Page de Connexion pour les Clients
 ![Page de connexion pour les clients](screenshots/client-sign.PNG "Page de connexion pour les clients")
--Réservations des clients
+
+### Réservations des Clients
 ![Réservations des clients](screenshots/bookings-client.PNG "Réservations des clients")
--Tableau de bord pour les clients
+
+### Tableau de Bord pour les Clients
 ![Tableau de bord pour les clients](screenshots/dash-client.PNG "Tableau de bord pour les clients")
--Réservations des clients
+
+### Réservations des Clients
 ![Réservations des clients](screenshots/view-bookings-client.PNG "Réservations des clients")
--Avis des clients
+
+### Avis des Clients
 ![Avis des clients](screenshots/review-client.PNG "Avis des clients")
 
 ## Technologies Utilisées
